@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+
+<script>
+
+//Programa para loja que calcule a forma de pagamento à vista com 10% de desconto e a prazo em 3 vezes.
+	
+var precoProduto = Number(prompt("Por favor, informe o preço do produto."));
+var valorAVista = precoProduto - (precoProduto * 0.1);
+var valorAPrazo = precoProduto / 3; 
+
+alert("Pague R$ " + valorAVista + " com 10% de desconto ou " + "pague seu produto com 3 parcelas de R$ " + (valorAPrazo.toFixed(2)) + "!");
+
+
+
+</script>

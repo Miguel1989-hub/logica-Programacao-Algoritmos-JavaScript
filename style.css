@@ -1,0 +1,19 @@
+.imagem{
+	float: left; 
+	height: 300px;
+	width: 300px;
+}
+
+.titulo-Principal {
+	border-bottom-style: inset;
+}
+
+p {
+	font-weight: bold;
+	font-style: italic;
+}
+
+html{
+	background: ghostwhite;
+
+}
