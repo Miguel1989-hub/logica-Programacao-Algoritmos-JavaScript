@@ -1,2 +1,4 @@
 # logica-Programacao-Algoritmos-JavaScript
-Resolução de problemas utilizando algoritmos e lógica de programação com JavaScript. 
+Resolução de problemas do Livro Lógica de Programação e Algoritmos com JavaScript, de Edécio Fernando Iepsen. 
+
+
